@@ -1,5 +1,8 @@
 # React + Vite
-
+It is a 3d landing page where i used spline with smooth ios affects and i have integrated tailwindcss along with react to build this website and i have used javascript,html,css as my language.
+3D model enhanced by spline
+Hover effects also been initialised with smooth animations.
+vite application with npm dev
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
